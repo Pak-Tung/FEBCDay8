@@ -1,0 +1,47 @@
+<style>
+        body {
+            background-color: #f4f4f4;
+            font-family: Arial, sans-serif;
+        }
+        form {
+            background-color: #fff;
+            padding: 20px;
+            margin: 20px auto;
+            width: 300px;
+            text-align: center;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        input[type="text"], select {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            border: 0;
+            border-radius: 5px;
+            background-color: #96726f;
+            color: #fff;
+            cursor: pointer;
+        }
+        button:hover {
+            cursor: pointer;
+            background-color: #e61207;
+        }
+        #register {
+            background-color: #f71f10;
+            color: #fff;
+            cursor: pointer;
+            font-size: 32px;
+        }
+        #text-green {
+            color: #4caf50;
+        }
+        .text-red {
+            color: #f44336;
+        }
+    </style>
